@@ -11,9 +11,8 @@ public class Company {
 	    System.out.println();
 	    System.out.println("Olunga Poduda Madaiya doi");
 	    System.out.println("Olunga Poduda Madaiya doi");
-	    System.out.println("Maaadu matom vazhanthurukkaye olunga ootha theriyatha");
+	    System.out.println("Maaadu matom vazhanthurukkaye olunga theriyatha");//  update venkatesh
 	}
-
 }
 
 abstract class Employee
