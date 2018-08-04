@@ -8,6 +8,7 @@ public class Company {
 	    Manager v= (Manager)c;
 	    v.project();
 	    new Hr();
+	    System.out.println();
 	}
 
 }
