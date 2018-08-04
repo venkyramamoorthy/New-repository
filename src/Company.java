@@ -9,6 +9,7 @@ public class Company {
 	    v.project();
 	    new Hr();
 	    System.out.println();
+	    System.out.println();
 	}
 
 }
