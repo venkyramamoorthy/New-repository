@@ -9,7 +9,9 @@ public class Company {
 	    v.project();
 	    new Hr();
 	    System.out.println();
-	    System.out.println();
+	    System.out.println("Olunga Poduda Madaiya doi");
+	    System.out.println("Olunga Poduda Madaiya doi");
+	    System.out.println("Maaadu matom vazhanthurukkaye olunga ootha theriyatha");
 	}
 
 }
